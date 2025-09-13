@@ -14,28 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![stars](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+<!-- Banner động -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="banner"/>
+</p>
 
+# 👋 Hi there! I'm **TinhNguyenWebApp**  
 
+💻 **Web/App Designer & Developer** | 🚀 **Landing Page & Internal Software**  
 
-# ✨ TinhNguyenWebApp — Thiên hướng: Thiên văn & Hành tinh  
-
-Xin chào! Mình là **TinhNguyenWebApp** 👋  
-Mình đam mê thiên văn học, mô phỏng hành tinh, và trực quan hóa dữ liệu không gian.  
-
-- 🔭 Đang nghiên cứu: mô phỏng hành tinh, phân tích dữ liệu Kepler/TESS  
-- 🛠️ Tech: Python, Jupyter, JavaScript, WebGL  
-- 🌌 Dự án nổi bật: [Planet-Sim](https://github.com/TinhNguyenWebApp/planet-sim), [Exoplanet-Data](https://github.com/TinhNguyenWebApp/exoplanet-data)  
-
----
-
-## 📫 Liên hệ  
-- 📧 Email: you@example.com  
-- 🌐 GitHub: [github.com/TinhNguyenWebApp](https://github.com/TinhNguyenWebApp)  
+- 🎨 Chuyên: Website, Landing Page, App, Phần mềm nội bộ  
+- 🛠️ Tech: HTML, CSS, JavaScript, React, Node.js, Tailwind, Figma, Wix, WordPress  
+- 🌌 Định hướng: Thiết kế đẹp, UX/UI hiện đại, code tối ưu  
 
 ---
 
-### 🌌 Góc thiên văn  
-![solar-system](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+## 🛠️ Technologies & Tools  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,figma,wordpress,vscode,github&theme=dark" />
+</p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TinhNguyenWebApp&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinhNguyenWebApp&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Liên hệ  
+
+- 📧 Email: yourmail@example.com  
+- 🌍 Website: [yourportfolio.com](https://yourportfolio.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+
+---
