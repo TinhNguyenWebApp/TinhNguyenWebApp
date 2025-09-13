@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![stars](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 
 
 # ✨ TinhNguyenWebApp — Thiên hướng: Thiên văn & Hành tinh  
